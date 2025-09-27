@@ -1,4 +1,4 @@
-Project: Static Travel Website Homepage
+### Project: Static Travel Website Homepage
 
 ### Overview
 
